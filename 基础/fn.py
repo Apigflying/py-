@@ -6,6 +6,8 @@
 # bool - 转换成布尔值
 import math
 
+'''
+# 求解一元二次方程
 # def quadratic(a, b, c):
 #   culp = ((-b+math.sqrt(b*b-4*a*c))/(2*a),(-b-math.sqrt(b*b-4*a*c))/(2*a))
 #   print(culp)
@@ -19,6 +21,7 @@ import math
 # else:
 #     print('测试成功')
 # print('a')
+'''
 
 def fn(arg = []):
     arg.append('abc')
