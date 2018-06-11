@@ -16,3 +16,7 @@ tuple : (1,2,3)
 dict : {key:value}
 set : {1,2,3}
 '''
+
+import keyword
+
+print(keyword.kwlist)
